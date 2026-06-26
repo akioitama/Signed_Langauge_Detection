@@ -12,7 +12,7 @@ Gesture-to-Text Translation: Converts recognized gestures into text output in re
 
 Preprocessing & Annotation: Supports training with annotated images for improved model performance.
 
-Visualization: Highlights detected hand gestures with bounding boxes on live video feed.
+Visualization: Highlights detected hand gestures with bounding boxes on live video feed..
 
 Tech Stack
 
