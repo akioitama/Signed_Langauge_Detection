@@ -1,6 +1,6 @@
 # Signed_Langauge_Detection_(Real-Time)
 
-This project implements a real-time sign language detection system using YOLO (You Only Look Once) for hand gesture recognition. It captures live video from your laptop camera and translates hand gestures into corresponding text or commands.
+This project implements a real-time sign language detection system using YOLO (You Only Look Once) for hand gesture recognition. It captures live video from your laptop camera and translates hand gestures into corresponding text or commands..
 
 Key Features
 
